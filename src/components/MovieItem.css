@@ -1,0 +1,9 @@
+.card-img-top {
+    object-fit: cover;
+}
+
+#card2 {
+    border: 3px;
+    margin-bottom: 3rem;
+    height: 42rem;
+} 

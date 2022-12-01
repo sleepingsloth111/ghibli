@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Castle in the Sky",
+      "director": "Hayao Miyazaki",
+      "release_year": 1986,
+      "runtime": 124,
+      "image": "images/castle.png"
+    },
+    {
+    "name": "Princess Mononoke",
+    "director": "Hayao Miyazaki",
+    "release_year": 1997,
+    "runtime": 133,
+    "image": "images/mononoke.png"
+    },
+    {
+    "name": "My Neighbors the Yamadas",
+    "director": "Isao Takahata",
+    "release_year": 1999,
+    "runtime": 104,
+    "image": "images/yamadas.jpeg"
+    },
+    {
+    "name": "Spirited Away",
+    "director": "Hayao Miyazaki",
+    "release_year": 2001,
+    "runtime": 125,
+    "image": "images/spirited_away.png"
+    },
+    {
+    "name": "The Cat Returns",
+    "director": "Hiroyuki Morita",
+    "release_year": 2002,
+    "runtime": 75,
+    "image": "images/cat.jpeg"
+    },
+    {
+    "name": "Grave of the Fireflies",
+    "director": "Isao Takahata",
+    "release_year": 1988,
+    "runtime": 89,
+    "image": "images/grave.jpeg"
+    },
+    {
+    "name": "My Neighbor Totoro",
+    "director": "Hayao Miyazaki",
+    "release_year": 1988,
+    "runtime": 87,
+    "image": "images/totoro.jpeg"
+    },
+    {
+    "name": "Kiki's Delivery Service",
+    "director": "Hayao Miyazaki",
+    "release_year": 1989,
+    "runtime": 102,
+    "image": "images/kiki.jpeg"
+    },
+    {
+    "name": "Only Yesterday",
+    "director": "Isao Takahata",
+    "release_year": 1991,
+    "runtime": 118,
+    "image": "images/only.jpeg"
+    },
+    {
+    "name": "Porco Rosso",
+    "director": "Hayao Miyazaki",
+    "release_year": 1992,
+    "runtime": 102,
+    "image": "images/porco.jpeg"
+    },
+    {
+    "name": "Whisper of the Heart",
+    "director": "Yoshifumi Kondo",
+    "release_year": 1995,
+    "runtime": 111,
+    "image": "images/whisper.jpeg"
+    },
+    {
+    "name": "Howl's Moving Casstle",
+    "director": "Hayao Miyazaki",
+    "release_year": 2004,
+    "runtime": 119,
+    "image": "images/howl.jpeg"
+    }
+  ]
