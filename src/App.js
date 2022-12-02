@@ -104,7 +104,7 @@ function App() {
           </th>
           <th id="one">
             {sortedData.map((item, index) => (
-            <MovieItem cart={cart} total={total} setTotal={setTotal} setCart={setCart} name={item.name} director={item.director} release_year={item.release_year} runtime={item.runtime} image={item.image}></MovieItem>
+            <MovieItem key={item.id} cart={cart} total={total} setTotal={setTotal} setCart={setCart} name={item.name} director={item.director} release_year={item.release_year} runtime={item.runtime} image={item.image}></MovieItem>
             ))}
           </th>
         </tr>

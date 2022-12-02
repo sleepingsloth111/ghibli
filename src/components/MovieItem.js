@@ -1,7 +1,7 @@
 import './MovieItem.css'
 import { Button } from 'react-bootstrap';
 import { Card } from 'react-bootstrap';
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 export default function MovieItem(props) {
   var cartItem = function() {
     this.name = props.name;
@@ -22,6 +22,13 @@ export default function MovieItem(props) {
     setSelected(false)
   }
 
+  const inCart = props.cart.some(element => {
+    if (element.id === props.name) {
+        return true;
+    }
+    return false;
+  })
+
     return (
     <Card id="card2" bg="light" style={{ width: '18rem' }}>
     <Card.Img variant="top" src={props.image} />
@@ -33,7 +40,7 @@ export default function MovieItem(props) {
         <p>Release Year: {props.release_year}</p>
         <p>Runtime: {props.runtime}</p>
       </Card.Text>
-      {selected ? 
+      {inCart ? 
     <Button onClick={remover} variant="warning" className="btn-warning">Unfavorite</Button> :
       <Button onClick={adder} variant="info" className="btn-info">Favorite</Button>}
     </Card.Body>

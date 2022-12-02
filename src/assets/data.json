@@ -4,83 +4,95 @@
       "director": "Hayao Miyazaki",
       "release_year": 1986,
       "runtime": 124,
-      "image": "images/castle.png"
+      "image": "images/castle.png",
+      "id": "1"
     },
     {
     "name": "Princess Mononoke",
     "director": "Hayao Miyazaki",
     "release_year": 1997,
     "runtime": 133,
-    "image": "images/mononoke.png"
+    "image": "images/mononoke.png",
+    "id": "2"
     },
     {
     "name": "My Neighbors the Yamadas",
     "director": "Isao Takahata",
     "release_year": 1999,
     "runtime": 104,
-    "image": "images/yamadas.jpeg"
+    "image": "images/yamadas.jpeg",
+    "id": "3"
     },
     {
     "name": "Spirited Away",
     "director": "Hayao Miyazaki",
     "release_year": 2001,
     "runtime": 125,
-    "image": "images/spirited_away.png"
+    "image": "images/spirited_away.png",
+    "id": "4"
     },
     {
     "name": "The Cat Returns",
     "director": "Hiroyuki Morita",
     "release_year": 2002,
     "runtime": 75,
-    "image": "images/cat.jpeg"
+    "image": "images/cat.jpeg",
+    "id": "5"
     },
     {
     "name": "Grave of the Fireflies",
     "director": "Isao Takahata",
     "release_year": 1988,
     "runtime": 89,
-    "image": "images/grave.jpeg"
+    "image": "images/grave.jpeg",
+    "id": "6"
     },
     {
     "name": "My Neighbor Totoro",
     "director": "Hayao Miyazaki",
     "release_year": 1988,
     "runtime": 87,
-    "image": "images/totoro.jpeg"
+    "image": "images/totoro.jpeg",
+    "id": "7"
     },
     {
     "name": "Kiki's Delivery Service",
     "director": "Hayao Miyazaki",
     "release_year": 1989,
     "runtime": 102,
-    "image": "images/kiki.jpeg"
+    "image": "images/kiki.jpeg",
+    "id": "8"
     },
     {
     "name": "Only Yesterday",
     "director": "Isao Takahata",
     "release_year": 1991,
     "runtime": 118,
-    "image": "images/only.jpeg"
+    "image": "images/only.jpeg",
+    "id": "9"
     },
     {
     "name": "Porco Rosso",
     "director": "Hayao Miyazaki",
     "release_year": 1992,
     "runtime": 102,
-    "image": "images/porco.jpeg"
+    "image": "images/porco.jpeg",
+    "id": "10"
     },
     {
     "name": "Whisper of the Heart",
     "director": "Yoshifumi Kondo",
     "release_year": 1995,
     "runtime": 111,
-    "image": "images/whisper.jpeg"
+    "image": "images/whisper.jpeg",
+    "id": "11"
     },
     {
     "name": "Howl's Moving Casstle",
     "director": "Hayao Miyazaki",
     "release_year": 2004,
     "runtime": 119,
-    "image": "images/howl.jpeg"
+    "image": "images/howl.jpeg",
+    "id": "12"
     }
   ]
