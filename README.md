@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://sleepingsloth111.github.io/ghibli/
 
 ### Goal and Value of the Application
 The application offers users to browse and maintain a list of their favorite ghibli
