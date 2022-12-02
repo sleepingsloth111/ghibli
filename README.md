@@ -36,7 +36,7 @@ display the Cards for each film. A cart (an array) is also passed in as a prop f
 all instances of MovieItem. Whenever the favorite button is clicked for a card, a cartItem var 
 is added to the cart. This cart is then passed down to the Aggregator component as a prop where
 the films in the cart are displayed as well as the average of the runtime of the films in the cart.
-State is used for the cart, the selected const in MovieItem, and the runtime total. 
+State is used for the cart and the runtime total. 
 
 ### How the User Triggers State Changes
 Users can trigger state changes through 3 interactions. 
