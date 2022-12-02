@@ -8,18 +8,15 @@ export default function MovieItem(props) {
     this.runtime = props.runtime;
   }
   let item = new cartItem()
-  const [selected, setSelected] = useState(false);
   function adder() {
     props.setCart([
         ...props.cart, {id: item.name, name: item}
     ]);
     props.setTotal(props.total + item.runtime);
-    setSelected(true)
   }
   function remover() {
     props.setCart(props.cart.filter(a => a.id !== item.name));
     props.setTotal(props.total - item.runtime);
-    setSelected(false)
   }
 
   const inCart = props.cart.some(element => {
